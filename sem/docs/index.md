@@ -23,7 +23,7 @@ Przedstawię, jak można w łatwy sposób sporządzić książkę (Jupyter Book)
 - Jupyter Book: 
 [https://bronwojtek.github.io/sem/docs/index.html](https://bronwojtek.github.io/sem/docs/index.html)
 
-- pdf seminarum: [www.ifj.edu.pl/~broniows/nn](https://www.ifj.edu.pl/~broniows/nn) or [www.ujk.edu.pl/~broniows/nn](https://www.ujk.edu.pl/~broniows/nn)
+- pdf seminarum: [https://github.com/bronwojtek/sem/blob/master/ExeBook.pdf](https://github.com/bronwojtek/sem/blob/master/ExeBook.pdf)
 
 ```
 
@@ -32,5 +32,3 @@ Built with [Jupyter Book
 2.0](https://beta.jupyterbook.org/intro.html) tool set, as part of the
 [ExecutableBookProject](https://ebp.jupyterbook.org/en/latest/).  
 ```
-
-
