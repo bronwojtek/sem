@@ -29,7 +29,7 @@ def sq(x):
 
 
 y=2
-print(y, ' ', sq(y))
+print(y, ' ', sq(y)) 
 
 
 # In[4]:
