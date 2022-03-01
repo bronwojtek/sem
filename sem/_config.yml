@@ -18,7 +18,7 @@ html:
   favicon              : "koh.png"
   home_page_in_navbar  : false
   use_edit_page_button : true
-  use_repository_button: false
+  use_repository_button: true
   use_issues_button    : true
 
 # Interact link settings
@@ -26,8 +26,8 @@ notebook_interface            : "notebook"
 
 repository:
   url           : "https://github.com/bronwojtek/sem/"
-#  branch        : master
-#  path_to_book  : sem
+  branch        : master
+  path_to_book  : sem
 
 # Launch button settings
 # launch_buttons:

@@ -10,7 +10,7 @@ import numpy as np              # numeric
 import matplotlib.pyplot as plt # plotting
 
 
-# Można chować komórki
+# Można chować nieistotne komórki
 
 # In[2]:
 
