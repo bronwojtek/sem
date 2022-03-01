@@ -1,0 +1,5 @@
+format: jb-book
+root: docs/index
+chapters:
+- file: docs/rozdz_1
+- file: docs/rozdz_2
