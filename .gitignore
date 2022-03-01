@@ -1,5 +1,5 @@
 # python & jupyter
-sem/_build/*
+# sem/_build/*
 .ipynb_checkpoints
 __pycache__/
 
@@ -7,5 +7,5 @@ __pycache__/
 g
 
 # os & tools
-.DS_Store
+# .DS_Store
 .idea
