@@ -40,7 +40,7 @@ def sig_T(s,T):
     return 1/(1+np.exp(-s/T))
 
 
-# In[5]:
+# In[6]:
 
 
 plt.figure(figsize=(2.8,2.3),dpi=120)
@@ -52,10 +52,16 @@ plt.plot(s, fs)
 fs = [sig_T(z,2) for z in s]
 plt.plot(s, fs)
 
-plt.title("Sigmoid with temperature", fontsize=11)
+plt.title("Sigmoid z temperaturą", fontsize=11)
 plt.legend(('T=0.5','T=2','step'),fontsize=9)
 
 plt.xlabel('signal',fontsize=11)
 plt.ylabel('response',fontsize=11)
 plt.show()
+
+
+# In[ ]:
+
+
+
 
