@@ -3,7 +3,9 @@
 
 # # Przykładowy rozdział
 
-# In[1]:
+# To jest moje seminarium na **UP**
+
+# In[8]:
 
 
 import numpy as np              # numeric
@@ -12,27 +14,33 @@ import matplotlib.pyplot as plt # plotting
 
 # Komórki trojakiego rodzaju
 
+# In[ ]:
+
+
+
+
+
 # ## Jakiś podrozdział
 
 # Rozumie latex:
 # 
 # $w_0+w_1 x_1 + w_2 x_2 > 0$.
 
-# In[2]:
+# In[9]:
 
 
 def sq(x):
     return x*x  # square
 
 
-# In[3]:
+# In[10]:
 
 
 y=2
 print(y, ' ', sq(y)) 
 
 
-# In[4]:
+# In[11]:
 
 
 # sigmoid 
@@ -40,7 +48,7 @@ def sig_T(s,T):
     return 1/(1+np.exp(-s/T))
 
 
-# In[6]:
+# In[12]:
 
 
 plt.figure(figsize=(2.8,2.3),dpi=120)

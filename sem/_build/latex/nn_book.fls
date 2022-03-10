@@ -446,8 +446,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
 OUTPUT nn_book.toc
-INPUT rozdz_1_8_0.png
-INPUT rozdz_1_8_0.png
+INPUT rozdz_1_10_0.png
+INPUT rozdz_1_10_0.png
 INPUT nn_book.ind
 INPUT nn_book.ind
 INPUT nn_book.aux
